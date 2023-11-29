@@ -2,104 +2,104 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/en/</loc>
+    <loc>https://blog.wzyang.online/en/</loc>
     <lastmod>2023-11-29T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.com/"
+                href="https://blog.wzyang.online/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/"
+                href="https://blog.wzyang.online/en/"
                 />
   </url><url>
-    <loc>https://example.com/en/archives/</loc>
+    <loc>https://blog.wzyang.online/en/archives/</loc>
     <lastmod>2023-11-29T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.com/archives/"
+                href="https://blog.wzyang.online/archives/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/archives/"
+                href="https://blog.wzyang.online/en/archives/"
                 />
   </url><url>
-    <loc>https://example.com/en/page/</loc>
+    <loc>https://blog.wzyang.online/en/page/</loc>
     <lastmod>2023-11-29T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.com/page/"
+                href="https://blog.wzyang.online/page/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/page/"
+                href="https://blog.wzyang.online/en/page/"
                 />
   </url><url>
-    <loc>https://example.com/en/about/</loc>
+    <loc>https://blog.wzyang.online/en/about/</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.com/%E5%85%B3%E4%BA%8E/"
+                href="https://blog.wzyang.online/%E5%85%B3%E4%BA%8E/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/about/"
+                href="https://blog.wzyang.online/en/about/"
                 />
   </url><url>
-    <loc>https://example.com/en/categories/</loc>
+    <loc>https://blog.wzyang.online/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.com/categories/"
+                href="https://blog.wzyang.online/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/categories/"
+                href="https://blog.wzyang.online/en/categories/"
                 />
   </url><url>
-    <loc>https://example.com/en/links/</loc>
+    <loc>https://blog.wzyang.online/en/links/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.com/%E9%93%BE%E6%8E%A5/"
+                href="https://blog.wzyang.online/%E9%93%BE%E6%8E%A5/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/links/"
+                href="https://blog.wzyang.online/en/links/"
                 />
   </url><url>
-    <loc>https://example.com/en/search/</loc>
+    <loc>https://blog.wzyang.online/en/search/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.com/search/"
+                href="https://blog.wzyang.online/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/search/"
+                href="https://blog.wzyang.online/en/search/"
                 />
   </url><url>
-    <loc>https://example.com/en/tags/</loc>
+    <loc>https://blog.wzyang.online/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.com/tags/"
+                href="https://blog.wzyang.online/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/tags/"
+                href="https://blog.wzyang.online/en/tags/"
                 />
   </url>
 </urlset>

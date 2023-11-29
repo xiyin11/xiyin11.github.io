@@ -2,113 +2,113 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/</loc>
+    <loc>https://blog.wzyang.online/</loc>
     <lastmod>2023-11-29T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/"
+                href="https://blog.wzyang.online/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.com/"
+                href="https://blog.wzyang.online/"
                 />
   </url><url>
-    <loc>https://example.com/page/</loc>
+    <loc>https://blog.wzyang.online/page/</loc>
     <lastmod>2023-11-29T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/page/"
+                href="https://blog.wzyang.online/en/page/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.com/page/"
+                href="https://blog.wzyang.online/page/"
                 />
   </url><url>
-    <loc>https://example.com/archives/</loc>
+    <loc>https://blog.wzyang.online/archives/</loc>
     <lastmod>2023-11-29T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/archives/"
+                href="https://blog.wzyang.online/en/archives/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.com/archives/"
+                href="https://blog.wzyang.online/archives/"
                 />
   </url><url>
-    <loc>https://example.com/categories/</loc>
+    <loc>https://blog.wzyang.online/categories/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/categories/"
+                href="https://blog.wzyang.online/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.com/categories/"
+                href="https://blog.wzyang.online/categories/"
                 />
   </url><url>
-    <loc>https://example.com/post/</loc>
+    <loc>https://blog.wzyang.online/post/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/categories/%E6%B5%8B%E8%AF%95/</loc>
+    <loc>https://blog.wzyang.online/categories/%E6%B5%8B%E8%AF%95/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/p/test-chinese/</loc>
+    <loc>https://blog.wzyang.online/p/test-chinese/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://blog.wzyang.online/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/tags/"
+                href="https://blog.wzyang.online/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.com/tags/"
+                href="https://blog.wzyang.online/tags/"
                 />
   </url><url>
-    <loc>https://example.com/%E5%85%B3%E4%BA%8E/</loc>
+    <loc>https://blog.wzyang.online/%E5%85%B3%E4%BA%8E/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/about/"
+                href="https://blog.wzyang.online/en/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.com/%E5%85%B3%E4%BA%8E/"
+                href="https://blog.wzyang.online/%E5%85%B3%E4%BA%8E/"
                 />
   </url><url>
-    <loc>https://example.com/%E9%93%BE%E6%8E%A5/</loc>
+    <loc>https://blog.wzyang.online/%E9%93%BE%E6%8E%A5/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/links/"
+                href="https://blog.wzyang.online/en/links/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.com/%E9%93%BE%E6%8E%A5/"
+                href="https://blog.wzyang.online/%E9%93%BE%E6%8E%A5/"
                 />
   </url><url>
-    <loc>https://example.com/search/</loc>
+    <loc>https://blog.wzyang.online/search/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/search/"
+                href="https://blog.wzyang.online/en/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://example.com/search/"
+                href="https://blog.wzyang.online/search/"
                 />
   </url>
 </urlset>
