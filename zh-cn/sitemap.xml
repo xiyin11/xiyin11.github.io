@@ -15,6 +15,19 @@
                 href="https://blog.wzyang.online/"
                 />
   </url><url>
+    <loc>https://blog.wzyang.online/categories/</loc>
+    <lastmod>2023-11-29T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.wzyang.online/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://blog.wzyang.online/categories/"
+                />
+  </url><url>
     <loc>https://blog.wzyang.online/page/</loc>
     <lastmod>2023-11-29T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -27,6 +40,15 @@
                 hreflang="zh-cn"
                 href="https://blog.wzyang.online/page/"
                 />
+  </url><url>
+    <loc>https://blog.wzyang.online/post/</loc>
+    <lastmod>2023-11-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.wzyang.online/categories/%E6%B5%8B%E8%AF%95/</loc>
+    <lastmod>2023-11-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://blog.wzyang.online/p/test-chinese/</loc>
+    <lastmod>2023-11-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.wzyang.online/archives/</loc>
     <lastmod>2023-11-29T00:00:00+00:00</lastmod>
@@ -41,27 +63,18 @@
                 href="https://blog.wzyang.online/archives/"
                 />
   </url><url>
-    <loc>https://blog.wzyang.online/categories/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+    <loc>https://blog.wzyang.online/about/</loc>
+    <lastmod>2023-11-29T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.wzyang.online/en/categories/"
+                href="https://blog.wzyang.online/en/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://blog.wzyang.online/categories/"
+                href="https://blog.wzyang.online/about/"
                 />
-  </url><url>
-    <loc>https://blog.wzyang.online/post/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.wzyang.online/categories/%E6%B5%8B%E8%AF%95/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://blog.wzyang.online/p/test-chinese/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://blog.wzyang.online/tags/</loc>
     <xhtml:link
@@ -75,19 +88,7 @@
                 href="https://blog.wzyang.online/tags/"
                 />
   </url><url>
-    <loc>https://blog.wzyang.online/%E5%85%B3%E4%BA%8E/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://blog.wzyang.online/en/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://blog.wzyang.online/%E5%85%B3%E4%BA%8E/"
-                />
-  </url><url>
-    <loc>https://blog.wzyang.online/%E9%93%BE%E6%8E%A5/</loc>
+    <loc>https://blog.wzyang.online/links/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -96,7 +97,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://blog.wzyang.online/%E9%93%BE%E6%8E%A5/"
+                href="https://blog.wzyang.online/links/"
                 />
   </url><url>
     <loc>https://blog.wzyang.online/search/</loc>
