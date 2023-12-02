@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Categories on 希音的博客</title>
+        <link>https://blog.wzyang.online/zh-cn/categories/</link>
+        <description>Recent content in Categories on 希音的博客</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <lastBuildDate>Wed, 29 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.wzyang.online/zh-cn/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>syntax</title>
+        <link>https://blog.wzyang.online/zh-cn/categories/syntax/</link>
+        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://blog.wzyang.online/zh-cn/categories/syntax/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>themes</title>
+        <link>https://blog.wzyang.online/zh-cn/categories/themes/</link>
+        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://blog.wzyang.online/zh-cn/categories/themes/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Test</title>
+        <link>https://blog.wzyang.online/zh-cn/categories/test/</link>
+        <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://blog.wzyang.online/zh-cn/categories/test/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>测试</title>
+        <link>https://blog.wzyang.online/zh-cn/categories/%E6%B5%8B%E8%AF%95/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://blog.wzyang.online/zh-cn/categories/%E6%B5%8B%E8%AF%95/</guid>
+        <description>&lt;img src="https://blog.wzyang.online/zh-cn/categories/%E6%B5%8B%E8%AF%95/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post 测试" /&gt;</description>
+        </item>
+        
+    </channel>
+</rss>

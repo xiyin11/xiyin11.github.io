@@ -2,25 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://blog.wzyang.online/en/</loc>
-    <lastmod>2023-11-29T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://blog.wzyang.online/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://blog.wzyang.online/en/"
-                />
-  </url><url>
     <loc>https://blog.wzyang.online/en/archives/</loc>
-    <lastmod>2023-11-29T00:00:00+00:00</lastmod>
+    <lastmod>2023-11-29T18:45:58+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://blog.wzyang.online/archives/"
+                href="https://blog.wzyang.online/zh-cn/archives/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -28,37 +15,12 @@
                 href="https://blog.wzyang.online/en/archives/"
                 />
   </url><url>
-    <loc>https://blog.wzyang.online/en/page/</loc>
-    <lastmod>2023-11-29T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://blog.wzyang.online/page/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://blog.wzyang.online/en/page/"
-                />
-  </url><url>
-    <loc>https://blog.wzyang.online/en/about/</loc>
-    <lastmod>2023-10-15T13:18:50+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://blog.wzyang.online/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://blog.wzyang.online/en/about/"
-                />
-  </url><url>
     <loc>https://blog.wzyang.online/en/categories/</loc>
+    <lastmod>2023-11-29T19:43:18+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://blog.wzyang.online/categories/"
+                href="https://blog.wzyang.online/zh-cn/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -66,11 +28,90 @@
                 href="https://blog.wzyang.online/en/categories/"
                 />
   </url><url>
-    <loc>https://blog.wzyang.online/en/links/</loc>
+    <loc>https://blog.wzyang.online/en/page/</loc>
+    <lastmod>2023-11-30T13:03:40+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://blog.wzyang.online/links/"
+                href="https://blog.wzyang.online/zh-cn/page/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.wzyang.online/en/page/"
+                />
+  </url><url>
+    <loc>https://blog.wzyang.online/en/post/</loc>
+    <lastmod>2023-11-29T19:43:18+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://blog.wzyang.online/zh-cn/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.wzyang.online/en/post/"
+                />
+  </url><url>
+    <loc>https://blog.wzyang.online/en/categories/%E6%B5%8B%E8%AF%95/</loc>
+    <lastmod>2023-11-29T19:43:18+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://blog.wzyang.online/zh-cn/categories/%E6%B5%8B%E8%AF%95/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.wzyang.online/en/categories/%E6%B5%8B%E8%AF%95/"
+                />
+  </url><url>
+    <loc>https://blog.wzyang.online/en/posts/2023/test-chinese/</loc>
+    <lastmod>2023-11-29T19:43:18+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://blog.wzyang.online/zh-cn/posts/2023/test-chinese/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.wzyang.online/en/posts/2023/test-chinese/"
+                />
+  </url><url>
+    <loc>https://blog.wzyang.online/en/about/</loc>
+    <lastmod>2023-11-30T13:03:40+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://blog.wzyang.online/zh-cn/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.wzyang.online/en/about/"
+                />
+  </url><url>
+    <loc>https://blog.wzyang.online/en/</loc>
+    <lastmod>2023-11-28T22:31:50+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://blog.wzyang.online/zh-cn/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://blog.wzyang.online/en/"
+                />
+  </url><url>
+    <loc>https://blog.wzyang.online/en/links/</loc>
+    <lastmod>2023-11-28T22:31:50+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://blog.wzyang.online/zh-cn/links/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -79,10 +120,11 @@
                 />
   </url><url>
     <loc>https://blog.wzyang.online/en/search/</loc>
+    <lastmod>2023-11-28T22:31:50+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://blog.wzyang.online/search/"
+                href="https://blog.wzyang.online/zh-cn/search/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -94,7 +136,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://blog.wzyang.online/tags/"
+                href="https://blog.wzyang.online/zh-cn/tags/"
                 />
     <xhtml:link
                 rel="alternate"
