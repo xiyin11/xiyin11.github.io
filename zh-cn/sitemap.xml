@@ -54,17 +54,17 @@
                 href="https://blog.wzyang.online/zh-cn/post/"
                 />
   </url><url>
-    <loc>https://blog.wzyang.online/zh-cn/posts/2023/test-chinese/</loc>
+    <loc>https://blog.wzyang.online/zh-cn/p/2023/test-chinese/</loc>
     <lastmod>2023-12-02T23:28:18+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://blog.wzyang.online/en/posts/2023/test-chinese/"
+                href="https://blog.wzyang.online/en/p/2023/test-chinese/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://blog.wzyang.online/zh-cn/posts/2023/test-chinese/"
+                href="https://blog.wzyang.online/zh-cn/p/2023/test-chinese/"
                 />
   </url><url>
     <loc>https://blog.wzyang.online/zh-cn/archives/</loc>
@@ -89,7 +89,7 @@
     <loc>https://blog.wzyang.online/zh-cn/tags/markdown/</loc>
     <lastmod>2023-11-28T22:31:50+08:00</lastmod>
   </url><url>
-    <loc>https://blog.wzyang.online/zh-cn/posts/2019/markdown-syntax-guide/</loc>
+    <loc>https://blog.wzyang.online/zh-cn/p/2019/markdown-syntax-guide/</loc>
     <lastmod>2023-11-28T22:31:50+08:00</lastmod>
   </url><url>
     <loc>https://blog.wzyang.online/zh-cn/categories/syntax/</loc>
@@ -114,13 +114,13 @@
     <loc>https://blog.wzyang.online/zh-cn/categories/themes/</loc>
     <lastmod>2023-11-28T22:31:50+08:00</lastmod>
   </url><url>
-    <loc>https://blog.wzyang.online/zh-cn/posts/2019/math-typesetting/</loc>
+    <loc>https://blog.wzyang.online/zh-cn/p/2019/math-typesetting/</loc>
     <lastmod>2023-11-28T22:31:50+08:00</lastmod>
   </url><url>
     <loc>https://blog.wzyang.online/zh-cn/tags/emoji/</loc>
     <lastmod>2023-12-02T19:46:44+08:00</lastmod>
   </url><url>
-    <loc>https://blog.wzyang.online/zh-cn/posts/2019/emoji-support/</loc>
+    <loc>https://blog.wzyang.online/zh-cn/p/2019/emoji-support/</loc>
     <lastmod>2023-12-02T19:46:44+08:00</lastmod>
   </url><url>
     <loc>https://blog.wzyang.online/zh-cn/categories/test/</loc>
