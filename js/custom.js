@@ -6,3 +6,7 @@ window.onscroll = function () {
         document.getElementById("toTop").style.visibility = "hidden";
       }
     };
+
+window.onload = function () {
+  document.getElementById("readnumbers").style.display = "block";
+}

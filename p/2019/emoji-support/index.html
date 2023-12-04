@@ -6,7 +6,7 @@
 
 <link rel='canonical' href='https://blog.wzyang.online/p/2019/emoji-support/'>
 
-<link rel="stylesheet" href="/scss/style.min.2d30bc0bd8b53cf9054f8903b7be141f649987470def68e86e8eff72bface308.css"><meta property='og:title' content='Emoji Support'>
+<link rel="stylesheet" href="/scss/style.min.f626702b3166ac565d42b50eb84ae19a0daf11b669c6af95a4fa07fbff9869d4.css"><meta property='og:title' content='Emoji Support'>
 <meta property='og:description' content='Guide to emoji usage in Hugo'>
 <meta property='og:url' content='https://blog.wzyang.online/p/2019/emoji-support/'>
 <meta property='og:site_name' content='希音的博客'>
@@ -15,18 +15,23 @@
 <meta name="twitter:description" content="Guide to emoji usage in Hugo"><meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:image" content='https://blog.wzyang.online/p/2019/emoji-support/the-creative-exchange-d2zvqp3fpro-unsplash.jpg' />
     <link rel="shortcut icon" href="/favicon.ico" />
+<style>
+    :root {
+        --article-font-family: "Noto Serif SC", var(--base-font-family);
+    }
+</style>
 
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-KVDSRM6HN1"></script>
 <script>
-var doNotTrack = false;
-if (!doNotTrack) {
-	window.dataLayer = window.dataLayer || [];
-	function gtag(){dataLayer.push(arguments);}
-	gtag('js', new Date());
-	gtag('config', 'G-KVDSRM6HN1', { 'anonymize_ip': false });
-}
-</script>
-<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+		(function () {
+		    const customFont = document.createElement('link');
+		    customFont.href = "https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;700&display=swap";
+		
+		    customFont.type = "text/css";
+		    customFont.rel = "stylesheet";
+		
+		    document.head.appendChild(customFont);
+		}());
+</script><script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
   <meta name="referrer" content="no-referrer-when-downgrade">
 <span id="top"></span>
     </head>
@@ -381,6 +386,24 @@ if (!doNotTrack) {
             </div>
 
         
+
+        
+        
+        <time class="article-readnumbers" style="display: none;" id="readnumbers">
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-eye" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+  <path d="M10 12a2 2 0 1 0 4 0a2 2 0 0 0 -4 0" />
+  <path d="M21 12c-2.4 4 -5.4 6 -9 6c-3.6 0 -6.6 -2 -9 -6c2.4 -4 5.4 -6 9 -6c3.6 0 6.6 2 9 6" />
+</svg>
+
+
+
+                
+                
+                <span id="busuanzi_container_page_pv">阅读量 <span id="busuanzi_value_page_pv"></span></span>
+                
+        
+
     </footer>
     
 
@@ -428,31 +451,7 @@ if (!doNotTrack) {
             <a href="/tags/emoji/">emoji</a>
         
     </section>
-
-        
-        <section class="article-readnumbers">
-                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-eye" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
-  <path d="M10 12a2 2 0 1 0 4 0a2 2 0 0 0 -4 0" />
-  <path d="M21 12c-2.4 4 -5.4 6 -9 6c-3.6 0 -6.6 -2 -9 -6c2.4 -4 5.4 -6 9 -6c3.6 0 6.6 2 9 6" />
-</svg>
-
-
-
-                
-                <span id="busuanzi_container_page_pv">阅读量 <span id="busuanzi_value_page_pv"></span> 次</span>
-                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-align-justified" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
-  <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
-  <path d="M4 6l16 0" />
-  <path d="M4 12l16 0" />
-  <path d="M4 18l12 0" />
-</svg>
-
-
-
-                <span>共 133 字</span>
-                
-            </section><section class="article-lastmod">
+<section class="article-lastmod">
         <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-clock" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
   <path stroke="none" d="M0 0h24v24H0z"/>
   <circle cx="12" cy="12" r="9" />
@@ -462,7 +461,7 @@ if (!doNotTrack) {
 
 
         <span>
-            最后更新于 北京时间 2023 年 12 月 2 日 19:46
+            最后更新于 2023 年 12 月 2 日 19:46 CST
         </span>
     </section>
     <section class="article-copyright">
@@ -474,7 +473,7 @@ if (!doNotTrack) {
 
 
 
-        <span>本文采用 <a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">知识共享 署名-非商业性使用-相同方式共享 4.0 </a>许可协议，转载请注明出处</span>
+        <span>本文采用 <a class="lincese-link" rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">知识共享 署名-非商业性使用-相同方式共享 4.0 </a>许可协议，转载请注明出处。</span>
     </section>
     
 </footer>
@@ -484,6 +483,12 @@ if (!doNotTrack) {
 </article>
 
 
+
+<div class="post-nav">
+    
+    <span class="prev-note">最近文章</span>
+    
+</div>
 
 <nav class="post-nav">
     <a class="prev" href="/p/2019/math-typesetting/">
@@ -495,7 +500,7 @@ if (!doNotTrack) {
 
 
         <span class="prev-text nav-default">Math Typesetting</span>
-        <span class="prev-text nav-mobile">上一篇</span>
+        <span class="prev-text nav-mobile">最近文章</span>
         </a>
     
 </nav>
@@ -518,54 +523,49 @@ if (!doNotTrack) {
      
     
         
-    <script
-    src="https://giscus.app/client.js"
-    data-repo="xiyin11/Giscus"
-    data-repo-id="R_kgDOKzfMuw"
-    data-category="Announcements"
-    data-category-id="DIC_kwDOKzfMu84CbW6M"
-    data-mapping="pathname"
-    data-strict="0"
-    data-reactions-enabled="1"
-    data-emit-metadata="0"
-    data-input-position="top"
-    data-theme="light"
-    data-lang="zh-CN"
-    crossorigin="anonymous"
-    async
-></script>
-<script>
-    function setGiscusTheme(theme) {
-        let giscus = document.querySelector("iframe.giscus-frame");
-        if (giscus) {
-            giscus.contentWindow.postMessage(
-                {
-                    giscus: {
-                        setConfig: {
-                            theme: theme,
-                        },
-                    },
-                },
-                "https://giscus.app"
-            );
-        }
+    <script src="//cdn.jsdelivr.net/npm/twikoo@1.6.21/dist/twikoo.all.min.js"></script>
+<div id="tcomment"></div>
+<style>
+    .twikoo {
+        background-color: var(--card-background);
+        border-radius: var(--card-border-radius);
+        box-shadow: var(--shadow-l1);
+        padding: var(--card-padding);
     }
-
-    (function () {
-        addEventListener("message", (e) => {
-            if (event.origin !== "https://giscus.app") return;
-            handler();
-        });
-        window.addEventListener("onColorSchemeChange", handler);
-
-        function handler() {
-            if (document.documentElement.dataset.scheme === "light") {
-                setGiscusTheme('light');
-            } else {
-                setGiscusTheme('dark_dimmed');
-            }
-        }
-    })();
+    :root[data-scheme="dark"] {
+        --twikoo-body-text-color-main: rgba(255, 255, 255, 0.9);
+        --twikoo-body-text-color: rgba(255, 255, 255, 0.7);
+    }
+    .twikoo .el-input-group__prepend,
+    .twikoo .tk-action-icon,
+    .twikoo .tk-submit-action-icon,
+    .twikoo .tk-time,
+    .twikoo .tk-comments-no,
+    .twikoo .tk-comments-count {
+        color: var(--twikoo-body-text-color);
+    }
+    .twikoo .el-input__inner,
+    .twikoo .el-textarea__inner,
+    .twikoo .tk-preview-container,
+    .twikoo .tk-content,
+    .twikoo .tk-nick,
+    .twikoo .tk-send {
+        color: var(--twikoo-body-text-color-main);
+    }
+    .twikoo .el-button{
+        color: var(--twikoo-body-text-color)!important;
+    }
+    .twikoo .el-input__count {
+        color: var(--twikoo-body-text-color) !important;
+    }
+    .OwO .OwO-body {
+        background-color: var(--body-background) !important;
+        color: var(--body-text-color) !important;
+    }
+</style><script>
+    twikoo.init({
+        envId: 'https:\/\/twikoo-netlify.netlify.app',
+        el: '#tcomment',lang: 'zh-CN',})
 </script>
 
     
@@ -582,6 +582,8 @@ if (!doNotTrack) {
 
     
 
+    
+    
     
     
     
@@ -622,7 +624,7 @@ if (!doNotTrack) {
             访客 <span id="busuanzi_value_site_uv"></span> 人
         </span>
     </div>
-        共 4 篇文章 | 总计 1861 字
+        共 5 篇文章 | 总计 2186 字
         </br>
 
         由 <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> 构建 |
